@@ -1,4 +1,4 @@
-# 🚀 DevOps-Powered Todo Application
+# 🚀 NoteVault: DevOps-Powered Todo Application
 
 A production-grade Todo application demonstrating modern DevOps practices, complete with CI/CD pipelines, security scanning, and multiple deployment options. This project serves as both a practical application and a comprehensive showcase of DevOps best practices including containerization, infrastructure as code, automated testing, and cloud deployment strategies.
 
